@@ -1,0 +1,11 @@
+.jumbotron {
+    margin-top: 1px;
+    background-image: url("../images/train2.jpg");
+    background-size: cover;
+}
+
+/* .card-header1 {
+    margin-top: 1px;
+    background-image: url("../images/triforce.jpg");
+    background-size: contain;
+} */
